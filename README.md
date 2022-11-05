@@ -16,3 +16,6 @@ That's it!
 if you now wan't to check what surah you're on, just check the top-right corner and click on the icon
 
 ![Preview](https://github.com/spxrtzy/Surah-Counter/blob/main/preview.jpg)
+
+# NEW UPDATE WILL BE COMING
+## The new update will show the corresponding Surah to the number
