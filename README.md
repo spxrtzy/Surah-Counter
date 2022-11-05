@@ -15,4 +15,4 @@ That's it!
 
 if you now wan't to check what surah you're on, just check the top-right corner and click on the icon
 
-![Preview](https://github.com/spxrtzy/surah-counter/preview.jpg)
+![Preview](https://github.com/spxrtzy/Surah-Counter/blob/main/preview.jpg)
