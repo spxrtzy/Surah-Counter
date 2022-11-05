@@ -8,7 +8,7 @@ currentSurahSpan.innerHTML = currentSurah;// == 1
 function updateValue() {
     chrome.storage.local.get(['currentSurah'],(result)=>{
         if(!result.currentSurah) {
-            result.currentSurah = "NOOO BROOO";
+            result.currentSurah = "oops, error";
         }
         currentSurah = result.currentSurah;
         currentSurahSpan.innerText = result.currentSurah;
