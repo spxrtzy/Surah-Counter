@@ -5,7 +5,7 @@ A Chrome extension to count which surah you are revising so you don't lose track
 
 To Use the extension you want to save the github repo into a folder
 
-Go to the [extensions](chrome://extensions/ tab.
+Go to the [extensions](chrome://extensions/) tab.
 
 Press the 'Unload Pack Button' and choose the folder
 
