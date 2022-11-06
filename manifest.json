@@ -1,7 +1,7 @@
 {
-    "name": "Surah Counter",
+    "name": "Surah Counter v.1.2.0",
     "description": "Keep Track of Surahs",
-    "version": "1.0.0",
+    "version": "1.2.0",
     "manifest_version": 3,
     "action": {
         "default_popup": "index.html",
