@@ -17,5 +17,5 @@ if you now wan't to check what surah you're on, just check the top-right corner 
 
 ![Preview](https://github.com/spxrtzy/Surah-Counter/blob/main/preview.jpg)
 
-# NEW UPDATE WILL BE COMING
-## The new update will show the corresponding Surah to the number
+# NEW UPDATE WILL BE COMING(Released)
+## The new update will show the corresponding Surah to the number(and fix some bugs)
